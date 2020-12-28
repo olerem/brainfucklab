@@ -9,6 +9,7 @@
 
 # Components
 * Desk!! :D
+* Hot glue gun (to hold the Lab tohether :D)
 * PC, Notebook
 * Monotore
 * Network switch
