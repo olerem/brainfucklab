@@ -35,6 +35,7 @@
     * https://github.com/HubertD/candleLight
     * https://github.com/candle-usb/candleLight_fw
 * Function generator
+    * https://github.com/Fifty-Nine/wavegen
 * Power supply
     * Switch Power: https://github.com/eez-open/modular-psu
     * Linear Power: if no existing alternative, take eez PSU and replace switching module to the linear -> todo: design linear module for the eez PSU.
@@ -42,6 +43,7 @@
 * soldering iron
     * http://dangerousprototypes.com/docs/Soldering_Iron_Driver#Tested_soldering_irons
 * Hot air gun
+    * http://www.tobias-schlegel.de/?page_id=577&lang=en
 * 3d printer
     * https://reprap.org
 * cnc machine
