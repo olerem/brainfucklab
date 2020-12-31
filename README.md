@@ -13,6 +13,7 @@
 * PC, Notebook
 * Monotore
 * Network switch
+    * PHY block https://github.com/gregdavill/advent-calendar-of-circuits-2020/blob/main/syzygy-sgmii/production/syzygy-sgmii.pdf
 * VPN Router
 * Osciloscope
     * https://gitlab.com/scopefun
