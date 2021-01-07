@@ -14,6 +14,7 @@
 * Monotore
 * Network switch
     * PHY block https://github.com/gregdavill/advent-calendar-of-circuits-2020/blob/main/syzygy-sgmii/production/syzygy-sgmii.pdf
+    * MSTP, RSTP support: https://github.com/mstpd/mstpd
 * VPN Router
 * Osciloscope
     * https://gitlab.com/scopefun
