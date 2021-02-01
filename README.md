@@ -56,3 +56,6 @@
 * pcb making
     * https://reprap.org/wiki/Automated_Circuitry_Making
 * chip production
+* FM transmitter/receiver
+    * https://www.silabs.com/documents/public/data-sheets/Si4712-13-B30.pdf
+    * https://www.cmlmicro.com/software-defined-radio-sdr-2/
