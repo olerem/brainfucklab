@@ -50,6 +50,7 @@
     * https://reprap.org
 * cnc machine
     * http://www.k8200.eu/ CNC capable
+    * https://github.com/thejobbitt/Ant-CNC  https://www.youtube.com/c/TheAntPCBMaker/videos
 * industrial robotic arm
     * https://github.com/BCN3D/BCN3D-Moveo
     * https://github.com/Toglefritz/Bertram_Robot_Arm
